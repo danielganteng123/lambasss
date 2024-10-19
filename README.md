@@ -24,45 +24,60 @@ kuliner fast food dalam satu sentuhan.
 
 ## **FEATURES** 
 
-## **USER: ** 
-Dashboard:
+### **1. USER: ** 
+
+**1. Dashboard:**
 Melihat menu fast food yang tersedia.
 Melihat pesanan terbaru dan status pengiriman.
 Menampilkan riwayat pesanan dan rincian pembelian.
 
-Pesan Makanan:
+**1. Pesan Makanan:**
 Memilih dan memesan menu dari toko Lambas.
 Menambahkan pesanan ke keranjang belanja.
 Melakukan pembayaran secara online.
 Melihat estimasi waktu pengiriman pesanan.
 
-Profil Pengguna:
+**2. Profil Pengguna::**
 Melihat dan mengedit data profil pengguna.
 Melihat riwayat pesanan.
 
-Lacak Pesanan:
+**3. Lacak Pesanan:**
 Melacak status pengiriman pesanan secara real-time.
 
-Penilaian dan Ulasan:
+**4. Penilaian dan Ulasan:**
 Memberikan ulasan dan penilaian untuk pesanan yang telah diterima.
 
-ADMIN
-Manajemen Menu:
+### **2. ADMIN :**
+
+**1. Manajemen Menu:**
 Menambah, mengedit, dan menghapus item menu fast food.
 Mengelola kategori menu (misalnya, minuman, makanan utama, camilan).
 
-Manajemen Pesanan:
+**2. Manajemen Pesanan:**
 Melihat dan mengelola pesanan masuk.
 Mengupdate status pengiriman pesanan (proses, dikirim, selesai).
 
-Laporan Penjualan:
+**3. Laporan Penjualan:**
 Melihat laporan penjualan harian, mingguan, dan bulanan.
 Melihat statistik pesanan dan pendapatan.|
 
+## **Library**
 
-#Library
-TBA
+## **Permission**
 
-#Permission
-TBA
 
+
+### **Instalasi dan Setup**
+
+1. **Install Android Studio**
+    - Download dan install Android Studio dari [Android Studio Official Website](https://developer.android.com/studio).
+    - Pastikan Android SDK 31 atau lebih tinggi terinstal melalui SDK Manager.
+2. **Install JDK**
+    - Download dan install JDK versi 11 dari [Oracle JDK](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html) atau [OpenJDK](https://openjdk.java.net/install/).
+3. **Clone Repository**
+    - Clone repository ini ke lokal komputer:
+      ```
+      git clone https://github.com/danielganteng123/lambasss.git
+      ```
+      cd lambasss
+      ```
