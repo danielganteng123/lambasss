@@ -1,20 +1,20 @@
-
+# Tubes-PM-Kelompok-1
 ## INFO
 
 Nama aplikasi: LAMBAS
-Tim pengembang: Kelompok 6
+Tim pengembang: Kelompok 1
 
-- Sintong sutanto Johannes L.Tobing - 221402076  (Project Manager) 
+- Denice Matthew
   Role *()*
-- Farhan Anfasa Maulana - 221402097  
+- Daniel Stephen Gultom
   Role *()*
-- Ghalbi Daffa Yustiawan - 221402103  
+- Muhammad Irvi 
   Role *()*
-- Ivan Mulatua Tambunan  - 221402106  
+- Naufal Fauzan Nasution
   Role *()*
-- Perwira Satria Taufik QD - 221402124  
+- Dafa Hibrizi Marpaung
   Role *()*
-- Wahyu Jhon Riadi Sianipar - 221402135  
+- Aiman Faturrahman 
   Role *()*
 
 
