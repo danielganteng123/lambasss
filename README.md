@@ -1,26 +1,30 @@
+
 ## INFO
 
 Nama aplikasi: LAMBAS
 Tim pengembang: Kelompok 6
 
 - Denice Matthew
-Role *()*
+  Role *()*
 - Daniel Stephen Gultom
-Role *()*
+  Role *()*
 - Muhammad Irvi Hafizi 
-Role *()*
+  Role *()*
 - Naufal 
-Role *()*
+  Role *()*
 - Dafa  
-Role *()*
+  Role *()*
 - Aiman 
-Role *()*
+  Role *()*
 
-#DESC
-Lambas adalah aplikasi pemesanan makanan yang dirancang khusus untuk toko Lambas, sebuah gerai makanan cepat saji yang menjual berbagai menu fast food dengan cita rasa khas Indonesia. Dengan Lambas, pelanggan dapat dengan mudah memesan makanan favorit mereka, menjelajahi menu, serta menikmati kemudahan pembayaran dan pengantaran langsung ke lokasi mereka. Aplikasi ini memudahkan pengalaman kuliner fast food dalam satu sentuhan.
+## DESC
+Lambas adalah aplikasi pemesanan makanan yang dirancang khusus untuk toko Lambas, sebuah gerai makanan cepat saji yang menjual berbagai menu fast food dengan cita rasa khas Indonesia. Dengan Lambas,
+pelanggan dapat dengan mudah memesan makanan favorit mereka, menjelajahi menu, serta menikmati kemudahan pembayaran dan pengantaran langsung ke lokasi mereka. Aplikasi ini memudahkan pengalaman
+kuliner fast food dalam satu sentuhan.
 
-#FEATURES 
-USER
+## **FEATURES** 
+
+## **USER: ** 
 Dashboard:
 Melihat menu fast food yang tersedia.
 Melihat pesanan terbaru dan status pengiriman.
