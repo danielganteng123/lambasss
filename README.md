@@ -6,7 +6,7 @@ Tim pengembang: Kelompok 6
 
 - Denice Matthew
   Role *()*
-- Daniel Stephen Gultom
+- Daniel Stephen Gultom -221402047
   Role *()*
 - Muhammad Irvi Hafizi 
   Role *()*
@@ -65,7 +65,16 @@ Melihat statistik pesanan dan pendapatan.|
 
 ## **Permission**
 
-
+## **Environment**
+- **Operating System**: Windows 11 Professional (64-bit)
+- **RAM** : 8GB
+- **Harddisk** : SSD 512GB
+- **Processor** : Intel Core i5 Generasi 10 atau lebih tinggi 
+- **VGA** : Intel® Iris® Xᵉ Graphics atau dedicated GPU seperti Nvidia GeForce MX atau GTX (untuk performa yang lebih baik di emulator dan pengolahan grafis). 
+- **Kotlin**: Versi terbaru (>= 1.6.0)
+- **Android Studio**: Versi terbaru Android SDK 31 atau lebih tinggi dan Android Emulator.
+- **JDK**: Versi 11 atau lebih tinggi untuk kompatibilitas dengan Android Studio dan tools pengembangan.
+- **Gradle**: Versi yang sesuai dengan Android Studio terbaru.
 
 ### **Instalasi dan Setup**
 
