@@ -77,7 +77,7 @@ Melihat statistik pesanan dan pendapatan.|
 - **JDK**: Versi 11 atau lebih tinggi untuk kompatibilitas dengan Android Studio dan tools pengembangan.
 - **Gradle**: Versi yang sesuai dengan Android Studio terbaru.
 
-### **Instalasi dan Setup**
+## **Instalasi dan Setup**
 
 1. **Install Android Studio**
     - Download dan install Android Studio dari [Android Studio Official Website](https://developer.android.com/studio).
