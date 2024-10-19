@@ -4,18 +4,19 @@
 Nama aplikasi: LAMBAS
 Tim pengembang: Kelompok 6
 
-- Denice Matthew
+- Sintong sutanto Johannes L.Tobing - 221402076  (Project Manager) 
   Role *()*
-- Daniel Stephen Gultom -221402047
+- Farhan Anfasa Maulana - 221402097  
   Role *()*
-- Muhammad Irvi Hafizi 
+- Ghalbi Daffa Yustiawan - 221402103  
   Role *()*
-- Naufal 
+- Ivan Mulatua Tambunan  - 221402106  
   Role *()*
-- Dafa  
+- Perwira Satria Taufik QD - 221402124  
   Role *()*
-- Aiman 
+- Wahyu Jhon Riadi Sianipar - 221402135  
   Role *()*
+
 
 ## DESC
 Lambas adalah aplikasi pemesanan makanan yang dirancang khusus untuk toko Lambas, sebuah gerai makanan cepat saji yang menjual berbagai menu fast food dengan cita rasa khas Indonesia. Dengan Lambas,
